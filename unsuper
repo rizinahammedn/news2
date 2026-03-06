@@ -1,0 +1,25 @@
+Import Libraries
+        ↓
+Load Dataset
+        ↓
+EDA
+        ↓
+Handle Missing Values
+        ↓
+Encoding
+        ↓
+Feature Scaling
+        ↓
+PCA (Dimensionality Reduction)
+        ↓
+K-Means Clustering
+        ↓
+Agglomerative Clustering
+        ↓
+Cluster Visualization
+        ↓
+Cluster Interpretation
+        ↓
+Final Insights
+
+unsupervised
